@@ -48,6 +48,7 @@ function LabelledInput({
   label,
   placeholder,
   // onChange,
+  //
   type,
 }: LabelledInputType) {
   return (
